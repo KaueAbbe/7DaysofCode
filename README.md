@@ -2,7 +2,7 @@
 
 Códigos em desenvolvimento do desafio 7Days of Code, que teve como objetivo realizar um projeto por dia durante uma semana. 
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |   [Minha Vitrine](https://cursos.alura.com.br/vitrinedev/kaueabbehausen)    |
 | -------------  | --- |
 | :sparkles: Nome        | **7DaysofCode**
 | :label: Tecnologias | python, jupyter notebook
